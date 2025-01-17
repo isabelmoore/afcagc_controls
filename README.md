@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # afcagc_controls
-=======
+
 # Getting Started: OpenAI (Stable Baselines 3) and Gazebo Integration
 
 ## Instructions
@@ -23,4 +22,3 @@
 - Train with model: `launch/train_model.sh`
 - Start Tensorboard: `tensorboard --logdir logs`
 - Evaluate: `launch/evaluate.sh`
->>>>>>> Removed git reference and added gym_gazebo as regular files
